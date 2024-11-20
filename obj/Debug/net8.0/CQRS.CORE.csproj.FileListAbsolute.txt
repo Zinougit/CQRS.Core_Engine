@@ -1,0 +1,12 @@
+C:\Users\zinou\Desktop\BackendProject\CQRS.ES\CQRS.CORE\obj\Debug\net8.0\CQRS.CORE.csproj.AssemblyReference.cache
+C:\Users\zinou\Desktop\BackendProject\CQRS.ES\CQRS.CORE\obj\Debug\net8.0\CQRS.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zinou\Desktop\BackendProject\CQRS.ES\CQRS.CORE\obj\Debug\net8.0\CQRS.CORE.AssemblyInfoInputs.cache
+C:\Users\zinou\Desktop\BackendProject\CQRS.ES\CQRS.CORE\obj\Debug\net8.0\CQRS.CORE.AssemblyInfo.cs
+C:\Users\zinou\Desktop\BackendProject\CQRS.ES\CQRS.CORE\obj\Debug\net8.0\CQRS.CORE.csproj.CoreCompileInputs.cache
+C:\Users\zinou\Desktop\BackendProject\CQRS.ES\CQRS.CORE\bin\Debug\net8.0\CQRS.CORE.deps.json
+C:\Users\zinou\Desktop\BackendProject\CQRS.ES\CQRS.CORE\bin\Debug\net8.0\CQRS.CORE.dll
+C:\Users\zinou\Desktop\BackendProject\CQRS.ES\CQRS.CORE\bin\Debug\net8.0\CQRS.CORE.pdb
+C:\Users\zinou\Desktop\BackendProject\CQRS.ES\CQRS.CORE\obj\Debug\net8.0\CQRS.CORE.dll
+C:\Users\zinou\Desktop\BackendProject\CQRS.ES\CQRS.CORE\obj\Debug\net8.0\refint\CQRS.CORE.dll
+C:\Users\zinou\Desktop\BackendProject\CQRS.ES\CQRS.CORE\obj\Debug\net8.0\CQRS.CORE.pdb
+C:\Users\zinou\Desktop\BackendProject\CQRS.ES\CQRS.CORE\obj\Debug\net8.0\ref\CQRS.CORE.dll
