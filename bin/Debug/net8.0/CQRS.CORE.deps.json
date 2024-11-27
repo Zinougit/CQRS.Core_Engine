@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "CQRS.CORE/1.0.0": {
+      "CQRS.Core/1.0.0": {
         "dependencies": {
           "MongoDB.Driver": "3.0.0"
         },
         "runtime": {
-          "CQRS.CORE.dll": {}
+          "CQRS.Core.dll": {}
         }
       },
       "DnsClient/1.6.1": {
@@ -106,7 +106,7 @@
     }
   },
   "libraries": {
-    "CQRS.CORE/1.0.0": {
+    "CQRS.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
